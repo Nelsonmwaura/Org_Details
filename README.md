@@ -1,7 +1,7 @@
  Org_Details
 Organization Structure
 <h1 align="center">Hi 👋, I'm Nelson Mwaura</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Kenya</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nelsonmwaura](https://github.com/Nelsonmwaura)
 
